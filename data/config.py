@@ -6,7 +6,7 @@ load_dotenv()
 
 BOT_TOKEN = str(os.getenv("BOT_TOKEN"))
 
-BOT_LINK = 'https://t.me/learn_for_shaida_bot?start'
+BOT_LINK = ''
 
 admins = [
 ]
